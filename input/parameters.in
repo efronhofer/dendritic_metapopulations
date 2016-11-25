@@ -1,0 +1,26 @@
+inputfile for parameters
+
+simulation time (sim_time)
+10000
+number of repeats (max_runs)
+25
+dispersal: variance used for mutation (mut_sd)
+0.2
+dispersal: mutation rate (mut_rate)
+0.0001
+no. of alleles (no_neutral_alleles)
+100
+mutation rate neural loci (mut_rate_neutral)
+0.00001
+habitat capacity (capacity)
+100
+fertility (lambda_null)
+2
+environmental stochasticity (sigma)
+0
+Allee effect strength (alpha)
+0
+random patch extinction probability (epsilon)
+0
+dispersal mortality (mu0)
+0
